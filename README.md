@@ -47,3 +47,7 @@ This is a basic implementation of the classic Hangman game written in Python.
 ## Contributing
 
 Feel free to contribute to this project by suggesting improvements or submitting pull requests.
+
+## Author
+
+Durjoy Barua / https://github.com/iamdurjoybarua
